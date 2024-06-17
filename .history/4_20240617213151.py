@@ -1,0 +1,18 @@
+#FIRST METHOD
+petNames = ["Mylo","Kaalu","Bruno",11,11.54,]
+
+# print(type(countries))
+
+# countries.append("Honduras")
+# print(countries)
+
+# copyCountries = countries.copy()
+# print(copyCountries)
+
+# countries.sort()
+# print(countries)
+
+# countries.reverse()
+# print(countries)
+
+# print(countries[::2])
